@@ -1,4 +1,4 @@
-react.js expo
+
 React Native Job Finder App
 
 Job-FInder app comes with a clean and straightforward search interface, allowing people to quickly find relevant job listings based on their preferences. The app leverages intuitive search algorithms and user-friendly interfaces to empower job seekers with the tools they need to navigate the job market efficiently.
@@ -7,11 +7,9 @@ With a wide range of filtering options, including location, industry, job type, 
 
 
 ⚙️ Tech Stack
-Node.js
 React Native
 Axios
 Expo
-Stylesheet
 🔋 Features
 1. Visually Appealing UI/UX Design
 
